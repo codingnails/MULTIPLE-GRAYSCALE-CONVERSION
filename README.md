@@ -13,8 +13,5 @@ providing a user-friendly environment for it.
 -> Giving the facility of converting multiple images into grayscale at ones. 
 -> Similar project can help converting every image in the application into grayscale 
 -> Changing the color scheme of the image can be done, which can help the color blind population to view the image. 
-4. REFERENCES -  
-          1. https://docs.oracle.com/javase/7/docs/api/java/awt/image/BufferedImage.html 
-          2.https://docs.oracle.com/javase/7/docs/api/javax/swing/JFrame.html 
-          3.https://docs.oracle.com/javase/7/docs/api/javax/swing/JFileChooser.html 
+
  
